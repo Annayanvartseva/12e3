@@ -1,3 +1,11 @@
-The Cake Is a Lie
-The first number multiplied by 2 
-Print difference
+#include <iostream>
+
+using namespace std;
+
+#учебная   
+int main()
+{
+    int a, b;
+	cout << "Enter A and B: ";
+	cin >> a >> b;
+}
